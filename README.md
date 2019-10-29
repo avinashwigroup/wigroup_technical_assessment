@@ -15,7 +15,7 @@ Please note that you will be evaluated for
 * adequate level of UI & UX
 * ability to use TypeScript is a plus,
 * the UI/UX of the app is up to the candidate's choice - the nicer , the better,
-* writing code in a clever way,
+* writing code in a clever way ( e.g. redundant code, state immutability, optimized function calls, etc.),
 * properly reading the requirements and produce creative products,
 * self leadership in choice and adaptation of to the tasks requested
 
