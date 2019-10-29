@@ -22,7 +22,7 @@ Please note that you will be evaluated for
 
 ### Questions ###
 
-Please attempt as much questions as you can.
+Please attempt as much questions as you can; while using modules such as redux, redux-thunk, react-navigation or the equivalent ReactJS modules or other modules.
 
 * Auto-Search App : Create a single screen app that has one text input that accepts a valid URL and then immediately loads the web-page in a webview/iframe component.
 
