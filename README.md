@@ -19,6 +19,8 @@ Please note that you will be evaluated for
 * properly reading the requirements and produce creative products,
 * self leadership in choice and adaptation of to the tasks requested
 
+### How to submit your answers ? ###
+Simply fork this repository and send the link to this email address : avinashl@wigroupinternational.com
 
 ### Questions ###
 
